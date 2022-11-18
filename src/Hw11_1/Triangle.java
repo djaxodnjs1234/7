@@ -28,9 +28,7 @@ public class Triangle extends GeometricObject {
 	}
 
 	/** Return side3 */
-	public double getSide3() {
-		return side3;
-	}
+	public double getSide3() { return side3;}
 
 	/** Return area of this triangle */
 	public double getArea() {

@@ -48,6 +48,5 @@ public class Hw11_14 {
 		for (int i = 0; i < 5; i++) {
 			list.add(input.nextInt());
 		}
-		input.close();
 	}
 }

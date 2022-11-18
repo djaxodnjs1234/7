@@ -6,7 +6,7 @@ public class Hw1_2 {
 
         IAnimal h2 = new Human();
         h2.eat();
-        h2.think();
+        //h2.think();
     }
 }
 interface IAnimal {

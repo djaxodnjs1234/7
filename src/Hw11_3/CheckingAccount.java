@@ -23,9 +23,7 @@ public class CheckingAccount
 	}
 
 	/** Return overdraft limit */
-	public double getOverdraftLimit() {
-		return overdraftLimit;
-	}
+	public double getOverdraftLimit() {	return overdraftLimit;}
 
 	/** Decrease balance by amount */
 	public void withdraw(double amount) {
