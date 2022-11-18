@@ -5,29 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="436202b5-fdca-46a4-89cb-1dd923dd5560" name="Changes" comment="두번째 태원 코드 병합">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/out/production/jp7/Hw11_2/.smbdeleteAAA03394.4" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/out/production/jp7/Hw11_2/.smbdeleteBAA03394.4" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/out/production/jp7/Hw11_3/.smbdeleteAAA091b4.4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Hw1_5/Boundary/Keyboard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Hw1_5/Boundary/Screen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Hw1_5/Control/DepositControl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Hw1_5/Control/InquiryControl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Hw1_5/Control/SavingControl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Hw1_5/Control/WithdrawControl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Hw1_5/Entity/Account.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Hw1_5/Entity/BankAppl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Hw1_5/Entity/MinusAccount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Hw1_5/Entity/NormalAccount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Hw1_5/Entity/SavingsAccount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Hw1_5/Hw1_5.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Hw11_1/Triangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Hw11_1/Triangle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Hw11_14.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Hw11_14.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Hw11_3/CheckingAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Hw11_3/CheckingAccount.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Hw1_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Hw1_2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -151,8 +132,16 @@
       <workItem from="1668479431571" duration="5000" />
       <workItem from="1668503741577" duration="3725000" />
       <workItem from="1668578435231" duration="1241000" />
-      <workItem from="1668729665708" duration="12349000" />
+      <workItem from="1668729665708" duration="12588000" />
     </task>
+    <task id="LOCAL-00001" summary="두번째 태원 코드 병합">
+      <created>1668746420743</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1668746420744</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
